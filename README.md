@@ -1,11 +1,11 @@
-# Título del trabajo
+# Lavadero de coches
 
-Descripción breve del proyecto a realizar (2-3 frases).
+Este codigo es de un programa para un lavadero de coches con registro agenda y tarifas para los diferentes clientes.
 
 ## Integrantes del equipo
 
-Nombres, apellidos, y usuario GitHub de los integrantes del equipo.
+Damaso Martinez  @damasomartinezalvarez.
 
 ## Objetivos del trabajo
 
-Lista de los objetivos que se persiguen con el trabajo propuesto.
+Mejorar en el conocimiento de l aprogramacion  y aplicarlo al desarollo de un programa.
