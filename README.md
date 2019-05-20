@@ -4,8 +4,8 @@ Este codigo es de un programa para un lavadero de coches con registro agenda y t
 
 ## Integrantes del equipo
 
-Damaso Martinez  @damasomartinezalvarez.
+Dámaso Martínez  @damasomartinezalvarez.
 
 ## Objetivos del trabajo
 
-Mejorar en el conocimiento de l aprogramacion  y aplicarlo al desarollo de un programa.
+Mejorar en el conocimiento de la programacion en C y aplicarlo al desarollo de un programa que tenga una utilidad real mas alla del entorno de la programación.
